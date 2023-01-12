@@ -19,6 +19,7 @@ public class IfStatement01 {
             System.out.println("Buyuk Harf");
         }
 
+        System.out.println("merhaba");
         /*
             && islemi sadece boolean ile kullanilir
                 true && true = true
